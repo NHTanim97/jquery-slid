@@ -1,0 +1,34 @@
+.slid{
+    height: 250px;
+    width: 500px;
+    background:black;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-left: 50%;
+    transform: translate(-50%,50%);
+}
+.btn{
+    text-align: center;
+    margin-top: 20px;
+    margin-top: 10px;
+    color: rgb(1, 1, 19);
+    font-size: 20px;
+    cursor: pointer;
+    height: 30px;
+    width: 500px;
+    background: burlywood;
+}
+.btn2{
+    text-align: center;
+    margin-top: 20px;
+    margin-top: 10px;
+    color: rgb(0, 0, 10);
+    font-size: 20px;
+    cursor: pointer;
+    height: 30px;
+    width: 500px;
+    background: rgb(69, 144, 230);
+}
+p{
+    margin-top: 57px;
+}
